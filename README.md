@@ -6,6 +6,7 @@ A growing collection of practical Bash scripts focused on automating everyday ta
 
 | Script | Description |
 |--------|-------------|
+| [`check_site.sh`](check_site.sh) | Sends an HTTP request to a target URL, prints the response status code, and reports whether the website is up or down. |
 | [`check_service.sh`](check_service.sh) | Checks if a specified service (e.g., nginx) is running via `systemctl` and automatically attempts to restart it if it is inactive. |
 | [`create_backup.sh`](create_backup.sh) | Creates a timestamped backup copy of a specified source directory and saves it into a destination folder. |
 | [`delete_replica.sh`](delete_replica.sh) | Compares two files and deletes the second one if they are identical, helping remove duplicate files. |
