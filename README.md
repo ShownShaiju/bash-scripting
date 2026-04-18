@@ -13,6 +13,7 @@ A growing collection of practical Bash scripts focused on automating everyday ta
 | [`dir_stats.sh`](dir_stats.sh) | Calculates and displays statistics for a given directory, including the total number of files, subdirectories, and overall disk usage size. |
 | [`file_perm_check.sh`](file_perm_check.sh) | Checks whether a given file is readable, writable, and executable — useful for quick permission audits. |
 | [`file_write_check.sh`](file_write_check.sh) | Validates if a file has write permissions before performing any operations on it. |
+| [`health_check.sh`](health_check.sh) | Runs a basic system health check by printing disk usage, memory usage, and CPU load information. |
 
 ## Getting Started
 
